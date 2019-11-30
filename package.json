@@ -1,0 +1,17 @@
+{
+  "name": "xrpleaf",
+  "version": "1.0.0",
+  "description": "Update Nanoleaf panels based on XRPL and XRP Tip Bot activity",
+  "main": "index.js",
+  "author": "Thomas Silkjær",
+  "license": "MIT",
+  "dependencies": {
+    "ably": "^1.1.22",
+    "dotenv": "^8.2.0",
+    "fast-sort": "^1.6.0",
+    "mdns": "^2.5.1",
+    "node-fetch": "^2.6.0",
+    "rippled-ws-client": "^1.0.0",
+    "udp-messaging": "^0.4.0"
+  }
+}
