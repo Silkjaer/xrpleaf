@@ -10,7 +10,7 @@
     "dotenv": "^8.2.0",
     "fast-sort": "^1.6.0",
     "mdns": "^2.5.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "rippled-ws-client": "^1.0.0",
     "udp-messaging": "^0.4.0"
   }
